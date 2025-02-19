@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-19 22:59:30 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/tinted_glass": {
     "criteria": {
       "recipe_condition": "2025-02-19 02:39:22 +0000"
@@ -361,6 +367,8 @@
       "porkchop": "2025-02-19 02:57:25 +0000",
       "apple": "2025-02-19 22:02:17 +0000",
       "bread": "2025-02-19 02:51:55 +0000",
+      "cookie": "2025-02-19 23:02:16 +0000",
+      "rotten_flesh": "2025-02-19 23:04:05 +0000",
       "enchanted_golden_apple": "2025-02-19 21:25:10 +0000"
     },
     "done": false
@@ -626,6 +634,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-19 02:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-19 22:51:58 +0000"
     },
     "done": true
   },
@@ -903,7 +917,8 @@
     "criteria": {
       "zombie_villager": "2025-02-19 22:09:46 +0000",
       "skeleton": "2025-02-19 21:59:24 +0000",
-      "zombie": "2025-02-19 21:59:52 +0000"
+      "zombie": "2025-02-19 21:59:52 +0000",
+      "spider": "2025-02-19 22:47:46 +0000"
     },
     "done": false
   },

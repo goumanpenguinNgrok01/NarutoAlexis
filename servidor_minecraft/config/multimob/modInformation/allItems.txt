@@ -2011,8 +2011,8 @@ kabutoaddon:kabuto_armor_pt_1
 kabutoaddon:sai_jacket
 kabutoaddon:obi_belt
 kabutoaddon:whiterobe
-kabutoaddon:katana
 kabutoaddon:sumirehime
+kabutoaddon:katana
 rerollthingy:mysteriousfruit
 rerollthingy:mysteriousplantbottom
 rerollthingy:mysteriousplanttop
