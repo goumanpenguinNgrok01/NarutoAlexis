@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_light_blue2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-02-19 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
     },
     "done": true
   },
@@ -337,6 +349,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-19 21:46:00 +0000",
       "beef": "2025-02-19 21:19:01 +0000",
       "porkchop": "2025-02-19 02:57:25 +0000",
       "bread": "2025-02-19 02:51:55 +0000",
@@ -608,6 +621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-19 02:49:17 +0000"
@@ -647,6 +666,12 @@
   "connectedglass:recipes/decorations/scratched_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
     },
     "done": true
   },
@@ -848,6 +873,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
@@ -914,9 +957,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_yellow2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
     },
     "done": true
   },
@@ -1037,6 +1092,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2025-02-19 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
     },
     "done": true
   },
@@ -1703,6 +1764,12 @@
   "connectedglass:recipes/decorations/borderless_glass_pink_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-19 21:42:33 +0000"
     },
     "done": true
   },
