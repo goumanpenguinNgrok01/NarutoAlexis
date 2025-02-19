@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-19 21:19:52 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_pink2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -478,6 +484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-19 21:19:52 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/clear_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -493,6 +505,12 @@
   "connectedglass:recipes/buildingblocks/borderless_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-19 21:20:28 +0000"
     },
     "done": true
   },
@@ -1147,6 +1165,12 @@
   "connectedglass:recipes/buildingblocks/borderless_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-02-19 21:25:37 +0000"
     },
     "done": true
   },
