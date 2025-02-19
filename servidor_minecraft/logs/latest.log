@@ -13991,3 +13991,469 @@ com.google.gson.JsonSyntaxException: Unknown item 'harvestcraft:harvestpumpkinit
 [21:59:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:00:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:00:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:00:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:00:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:00:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:00:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:00:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord burned to death
+[22:00:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:00:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was squished too much
+[22:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA has made the advancement [Isn't It Iron Pick]
+[22:01:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:01:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:01:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported starlord to TUTUMA]
+[22:02:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was squished too much
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.zombie.infect' to G4R3N]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Granted the entire advancement 'narutomodaddon:activate_chakra_charge' to G4R3N]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Title command successfully executed]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to G4R3N for 10 seconds]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[22:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.shulker.shoot' to G4R3N]
+[22:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:activate_chakra_charge' from G4R3N]
+[22:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Title command successfully executed]
+[22:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Chakra from G4R3N]
+[22:03:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:03:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N fell out of the world
+[22:04:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:04:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[22:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[22:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:05:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was slain by TUTUMA
+[22:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to TUTUMA]
+[22:07:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was killed by Iwa Rogue using ninjutsu
+[22:07:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:07:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was squished too much
+[22:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was squished too much
+[22:08:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:00] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[22:09:00] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 87 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2860,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:09:00] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[22:09:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:09:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.218.253.130:52891] logged in with entity id 16487328 at (160.52027290583, 69.0, 288.9131315142281)
+[22:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[22:09:02] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/16487328, l='world', x=160.52, y=69.00, z=288.91] connected. Sending ping
+[22:09:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to G4R3N]
+[22:09:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[22:09:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 has made the advancement [Best Friends Forever]
+[22:09:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was shot by Skeleton
+[22:10:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was squished too much
+[22:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[22:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was slain by TUTUMA
+[22:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to TUTUMA]
+[22:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was killed by Hatake Kakashi using ninjutsu
+[22:11:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:11:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:11:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:11:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:11:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:11:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to G4R3N]
+[22:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was slain by starlord
+[22:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to TUTUMA]
+[22:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to G4R3N]
+[22:12:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[22:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was squished too much
+[22:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA fell out of the world
+[22:12:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was squished too much
+[22:12:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was squished too much
+[22:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was slain by gamesforever750
+[22:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was slain by gamesforever750
+[22:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was slain by gamesforever750
+[22:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[22:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported starlord to TUTUMA]
+[22:13:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was slain by TUTUMA
+[22:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was slain by Hatake Kakashi
+[22:15:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was struck by lightning
+[22:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was slain by gamesforever750
+[22:15:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was killed by Hatake Kakashi using ninjutsu
+[22:15:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Timed out
+[22:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[22:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was struck by lightning
+[22:15:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: starlord lost connection: Timed out
+[22:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord left the game
+[22:15:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Timed out
+[22:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game
+[22:15:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA lost connection: Timed out
+[22:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA left the game
+[22:16:21] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[22:16:21] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:16:21] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[22:16:29] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[22:16:29] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 87 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2860,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:16:29] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[22:16:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:16:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TUTUMA[/127.218.191.247:57197] logged in with entity id 18915591 at (218.0844362266271, 62.97194263564459, 358.3847038627765)
+[22:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA joined the game
+[22:16:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['TUTUMA'/18915591, l='world', x=218.08, y=62.97, z=358.38] connected. Sending ping
+[22:16:36] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[22:16:36] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:16:36] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[22:16:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:16:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.218.253.130:38177] logged in with entity id 18915592 at (133.10021932675946, 70.25220334025373, 268.9770722841473)
+[22:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[22:16:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/18915592, l='world', x=133.10, y=70.25, z=268.98] connected. Sending ping
+[22:16:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA lost connection: Timed out
+[22:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA left the game
+[22:16:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Timed out
+[22:16:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[22:17:06] [Netty Epoll Server IO #6/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[22:17:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Timed out
+[22:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game
+[22:17:20] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:17:20] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:17:20] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:17:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:17:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gamesforever750[/127.135.54.243:52319] logged in with entity id 18977730 at (151.30000001192093, 70.0, 269.72715542091964)
+[22:17:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 joined the game
+[22:17:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['gamesforever750'/18977730, l='world', x=151.30, y=70.00, z=269.73] connected. Sending ping
+[22:18:50] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:18:50] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 84 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:18:50] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[22:18:50] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [roguelike] at CLIENT
+[22:18:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:18:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: starlord[/127.57.85.189:43053] logged in with entity id 19181962 at (32.44118547980612, 89.25220334025373, 85.92823487943251)
+[22:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord joined the game
+[22:18:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/19181962, l='world', x=32.44, y=89.25, z=85.93] connected. Sending ping
+[22:18:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:18:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'gamesforever' cannot be found
+[22:19:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:19:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:19:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was killed by Iwa Rogue using ninjutsu
+[22:19:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kicked gamesforever750 from the game
+[22:19:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Kicked by an operator.
+[22:19:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game
+[22:19:41] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:19:41] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:19:41] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:19:41] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:19:41] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 87 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2860,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:19:41] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[22:19:44] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:19:44] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[22:19:44] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[22:19:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:19:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.218.253.130:42255] logged in with entity id 19373894 at (133.10021932675946, 70.25220334025373, 268.9770722841473)
+[22:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[22:19:45] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/19373894, l='world', x=133.10, y=70.25, z=268.98] connected. Sending ping
+[22:19:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:19:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TUTUMA[/127.218.191.247:52445] logged in with entity id 19380803 at (218.0844362266271, 62.97194263564459, 358.3847038627765)
+[22:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA joined the game
+[22:19:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['TUTUMA'/19380803, l='world', x=218.08, y=62.97, z=358.38] connected. Sending ping
+[22:19:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:19:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gamesforever750[/127.135.54.243:56541] logged in with entity id 19372636 at (-429.1954200162249, 30.0, -160.69999998807907)
+[22:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 joined the game
+[22:19:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['gamesforever750'/19372636, l='world', x=-429.20, y=30.00, z=-160.70] connected. Sending ping
+[22:20:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Timed out
+[22:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[22:20:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA lost connection: Timed out
+[22:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA left the game
+[22:20:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Disconnected
+[22:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game

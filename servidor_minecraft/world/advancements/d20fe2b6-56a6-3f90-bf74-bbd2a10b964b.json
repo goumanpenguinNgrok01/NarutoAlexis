@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:54:48 +0000"
@@ -284,6 +290,12 @@
   "connectedglass:recipes/decorations/borderless_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-19 22:03:56 +0000"
     },
     "done": true
   },
@@ -537,6 +549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:13:43 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/clear_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -729,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:13:43 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/borderless_glass_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -773,7 +797,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-02-19 22:08:12 +0000",
+      "zombie_villager": "2025-02-19 22:07:58 +0000",
       "skeleton": "2025-02-19 21:50:08 +0000",
+      "zombie": "2025-02-19 22:08:32 +0000",
       "spider": "2025-02-19 21:49:50 +0000"
     },
     "done": false
@@ -877,6 +904,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-19 22:09:46 +0000"
     },
     "done": true
   },
@@ -1045,6 +1078,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:13:43 +0000"
     },
     "done": true
   },
@@ -1605,6 +1644,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-02-19 00:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:13:43 +0000"
     },
     "done": true
   },
