@@ -452,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-20 19:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 00:25:38 +0000"
@@ -1447,6 +1453,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-02-20 19:44:03 +0000"
     },
     "done": true
   },

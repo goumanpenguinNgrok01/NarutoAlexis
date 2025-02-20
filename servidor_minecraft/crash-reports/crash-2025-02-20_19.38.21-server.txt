@@ -1,0 +1,180 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  NarutoAddonHookLoader (JutsuAddon v1.0.jar)
+  NarutoAddonHookLoader (SharinganAddon v1.0.jar)
+  Forgelin-Continuous (Forgelin-Continuous-2.1.10.0.jar)
+  SuperMartijn642's Core Lib Plugin (_supermartijn642corelib-1.1.18-forge-mc1.12.jar)
+  ApotheosisCore (Apotheosis-1.12.2-1.12.5.jar)
+  LootrCore (lootr-1.12.2-0.6.2.jar)
+  EntityCullingEarlyLoader (entityculling-1.12.2-1.6.3.jar)
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.12.jar)
+  CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  NarutoAddonHookLoader (RinneganAddon v1.3.jar)
+  MixinBooter (!mixinbooter-10.5.jar)
+  ModularUI-Core (modularui-2.4.3.jar)
+  NarutoAddonHookLoader (SealsAddon v1.0.jar)
+  CarbonConfigHooks (CarbonConfig-1.12.2-1.2.4.jar)
+  Fusion Plugin (fusion-1.2.4-forge-mc1.12.jar)
+  SoManyEnchantmentsPlugin (SoManyEnchantments-1.0.2-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// I feel sad now :(
+
+Time: 2/20/25 7:38 PM
+Description: Exception in server tick loop
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+	at java.util.HashMap$EntryIterator.next(HashMap.java:1503)
+	at java.util.HashMap$EntryIterator.next(HashMap.java:1501)
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onUpdate(PhoenixDiveEnchantment.java:120)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_214_PhoenixDiveEnchantment_onUpdate_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:274)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:776)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+No Mixin Metadata is found in the Stacktrace.
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 1.8.0_442, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 5649852824 bytes (5388 MB) / 6775373824 bytes (6461 MB) up to 12407799808 bytes (11833 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx13G
+	IntCache: cache: 3, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 77 mods loaded, 77 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                            | Version                       | Source                                          | Signature                                |
+	|:------ |:----------------------------- |:----------------------------- |:----------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                     | 1.12.2                        | minecraft.jar                                   | None                                     |
+	| LCHIJA | mcp                           | 9.42                          | minecraft.jar                                   | None                                     |
+	| LCHIJA | FML                           | 8.0.99.99                     | forge-1.12.2-14.23.5.2860.jar                   | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                         | 14.23.5.2860                  | forge-1.12.2-14.23.5.2860.jar                   | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | creativecoredummy             | 1.0.0                         | minecraft.jar                                   | None                                     |
+	| LCHIJA | mixinbooter                   | 10.5                          | minecraft.jar                                   | None                                     |
+	| LCHIJA | securitycraft                 | v1.9.12                       | [1.12.2] SecurityCraft v1.9.12.jar              | None                                     |
+	| LCHIJA | damageindicatorsmod           | 1.0                           | [1.12.2]DamageIndicatorsMod-3.5.1.jar           | None                                     |
+	| LCHIJA | supermartijn642corelib        | 1.1.18                        | _supermartijn642corelib-1.1.18-forge-mc1.12.jar | None                                     |
+	| LCHIJA | ahznbswordsplus               | 1.2.1                         | ahznb weapons plus 1.2.1.jar                    | None                                     |
+	| LCHIJA | anbubingobook                 | 1.5.3                         | AnbuBingoBook - 1.5.3.jar                       | None                                     |
+	| LCHIJA | placebo                       | 1.6.0                         | Placebo-1.12.2-1.6.1.jar                        | None                                     |
+	| LCHIJA | apotheosis                    | 1.12.4                        | Apotheosis-1.12.2-1.12.5.jar                    | None                                     |
+	| LCHIJA | jei                           | 4.16.1.301                    | jei_1.12.2-4.16.1.301.jar                       | None                                     |
+	| LCHIJA | appleskin                     | 1.0.14                        | AppleSkin-mc1.12-1.0.14.jar                     | None                                     |
+	| LCHIJA | armourers_workshop            | 1.12.2-0.51.0                 | Armourers-Workshop-1.12.2-0.51.0.jar            | None                                     |
+	| LCHIJA | baubles                       | 1.5.2                         | Baubles-1.12-1.5.2.jar                          | None                                     |
+	| LCHIJA | bettercaves                   | 1.12.2                        | bettercaves-1.12.2-2.0.4.jar                    | None                                     |
+	| LCHIJA | bettermineshafts              | 1.12.2-2.2.1                  | BetterMineshaftsForge-1.12.2-2.2.1.jar          | None                                     |
+	| LCHIJA | betterthanmending             | 1.1.2                         | BetterThanMending-1.1.2.jar                     | None                                     |
+	| LCHIJA | byg                           | 1.7.1                         | BiomesYouGo1.7.1.jar                            | None                                     |
+	| LCHIJA | carbonconfig                  | 1.2.1                         | CarbonConfig-1.12.2-1.2.4.jar                   | None                                     |
+	| LCHIJA | carryon                       | 1.12.3                        | carryon-1.12.2-1.12.7.23.jar                    | None                                     |
+	| LCHIJA | clumps                        | 3.1.2                         | Clumps-3.1.2.jar                                | None                                     |
+	| LCHIJA | collective                    | 3.0                           | collective-1.12.2-3.0.jar                       | None                                     |
+	| LCHIJA | comforts                      | 1.4.1.3                       | comforts-1.12.2-1.4.1.3.jar                     | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+	| LCHIJA | connectedglass                | 1.1.12                        | connectedglass-1.1.12-forge-mc1.12.jar          | None                                     |
+	| LCHIJA | cosmeticarmorreworked         | 1.12.2-v5a                    | CosmeticArmorReworked-1.12.2-v5a.jar            | aaaf83332a11df02406e9f266b1b65c1306f0f76 |
+	| LCHIJA | creativecore                  | 1.10.0                        | CreativeCore_v1.10.71_mc1.12.2.jar              | None                                     |
+	| LCHIJA | editenchanting                | 1.0.9                         | DisenchantmentEditTable-1.12.2-1.0.9.jar        | None                                     |
+	| LCHIJA | elevatorid                    | 1.3.14                        | ElevatorMod-1.12.2-1.3.14.jar                   | None                                     |
+	| LCHIJA | singlepersonsleep             | 2.0.0                         | falconssinglepersonsleep-2.0.0.jar              | None                                     |
+	| LCHIJA | forgelin_continuous           | 2.1.10.0                      | Forgelin-Continuous-2.1.10.0.jar                | None                                     |
+	| LCHIJA | forgelin                      | 1.8.4                         | Forgelin-Continuous-2.1.10.0.jar                | None                                     |
+	| LCHIJA | ftblib                        | 5.4.7.2                       | FTBLib-5.4.7.2.jar                              | None                                     |
+	| LCHIJA | itemfilters                   | 1.0.4.2                       | ItemFilters-1.0.4.2.jar                         | None                                     |
+	| LCHIJA | ftbquests                     | 1202.9.0.15                   | FTBQuests-1202.9.0.15.jar                       | None                                     |
+	| LCHIJA | waila                         | 1.8.26                        | Hwyla-1.8.26-B41_1.12.2.jar                     | None                                     |
+	| LCHIJA | inventorysorter               | 1.13.3+57                     | inventorysorter-1.12.2-1.13.3+57.jar            | None                                     |
+	| LCHIJA | ironfurnaces                  | 1.3.5                         | ironfurnaces-1.3.5.jar                          | None                                     |
+	| LCHIJA | journeymap                    | 1.12.2-5.7.1p3                | journeymap-1.12.2-5.7.1p3.jar                   | None                                     |
+	| LCHIJA | jrftl                         | 1.1                           | JRFTL[1.12.2]-1.1.jar                           | None                                     |
+	| LCHIJA | narutomod                     | 0.3.1-beta                    | NarutoMod-1.12.2-0.3.1.beta.jar                 | None                                     |
+	| LCHIJA | jutsuaddon                    | 1.0                           | JutsuAddon v1.0.jar                             | None                                     |
+	| LCHIJA | kabutoaddon                   | 1.0.0                         | kabutoaddon 5.5.5.jar                           | None                                     |
+	| LCHIJA | lootbags                      | 2.5.8.5                       | LootBags-1.12.2-2.5.8.5.jar                     | None                                     |
+	| LCHIJA | lootr                         | 0.6.2                         | lootr-1.12.2-0.6.2.jar                          | None                                     |
+	| LCHIJA | modularui                     | 2.4.3                         | modularui-2.4.3.jar                             | None                                     |
+	| LCHIJA | llibrary                      | 1.7.20                        | llibrary-1.7.20-1.12.2.jar                      | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+	| LCHIJA | mowziesmobs                   | 1.5.8                         | mowziesmobs-1.5.8.jar                           | None                                     |
+	| LCHIJA | multimob                      | 1.0.5                         | multimob-1.0.5.jar                              | None                                     |
+	| LCHIJA | rerollthingy                  | 1.0.0                         | Naruto-Mod-Reroll-1.0.0.jar                     | None                                     |
+	| LCHIJA | narutomodaddononero           | 1.0.0                         | NarutoMod-Addon_byAnimeSupremeTeam-v1.0.jar     | None                                     |
+	| LCHIJA | narutomodaddon                | 1.0.0                         | NarutoModAddon-Chakra.jar                       | None                                     |
+	| LCHIJA | naturescompass                | 1.8.5                         | NaturesCompass-1.12.2-1.8.5.jar                 | None                                     |
+	| LCHIJA | harvestcraft                  | 1.12.2zb                      | Pam's HarvestCraft 1.12.2zg.jar                 | None                                     |
+	| LCHIJA | patchouli                     | 1.0-23.6                      | Patchouli-1.0-23.6.jar                          | None                                     |
+	| LCHIJA | performant                    | 1.12.2-1.5                    | performant-1.11.jar                             | None                                     |
+	| LCHIJA | xreliquary                    | 1.12.2-1.3.4.796              | Reliquary-1.12.2-1.3.4.796.jar                  | None                                     |
+	| LCHIJA | retro_sophisticated_backpacks | retro_sophisticated_backpacks | Retro-Sophisticated-Backpack-0.0.2.jar          | None                                     |
+	| LCHIJA | sealsaddon                    | 1.0                           | SealsAddon v1.0.jar                             | None                                     |
+	| LCHIJA | rinneganaddon                 | 1.3                           | RinneganAddon v1.3.jar                          | None                                     |
+	| LCHIJA | roguelike                     | 2.4.6                         | RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar   | None                                     |
+	| LCHIJA | sharinganaddon                | 1.0                           | SharinganAddon v1.0.jar                         | None                                     |
+	| LCHIJA | simple_hammers                | 0.0.1-BACKPORT                | simple_hammers-0.0.1-BACKPORT.jar               | None                                     |
+	| LCHIJA | somanyenchantments            | 1.0.2                         | SoManyEnchantments-1.0.2-1.12.2.jar             | None                                     |
+	| LCHIJA | specialmobs                   | 1.0.4_for_mc1.12.2            | specialmobs-1.0.4_for_mc1.12.2.jar              | None                                     |
+	| LCHIJA | the_eight_artifacts           | 1.0.1                         | The 8 Artifacts.1.1.jar                         | None                                     |
+	| LCHIJA | travelersbackpack             | 1.0.35                        | TravelersBackpack-1.12.2-1.0.35.jar             | None                                     |
+	| LCHIJA | treeharvester                 | 4.0                           | treeharvester_1.12.2-4.0.jar                    | None                                     |
+	| LCHIJA | uniquebase                    | 1.0.1                         | Unique Enchantments Base-1.12.2-1.1.4.jar       | None                                     |
+	| LCHIJA | uniquee                       | 2.0.1                         | Unique Enchantments-1.12.2-2.1.4.jar            | None                                     |
+	| LCHIJA | walljump                      | 1.3.2                         | walljump-1.12.2-1.3.2.jar                       | None                                     |
+	| LCHIJA | waystones                     | 4.1.0                         | Waystones_1.12.2-4.1.0.jar                      | None                                     |
+	| LCHIJA | wonderful_enchantments        | 0.6.0                         | wonderful-enchantments-1.12.2-0.6.0.jar         | None                                     |
+	| LCHIJA | yungslaw                      | 1.12.2                        | YungsLaw-1.12.2-1.0.4.jar                       | None                                     |
+	| LCHIJA | jade                          | 0.1.0                         | Jade-0.1.0.jar                                  | None                                     |
+
+	Loaded coremods (and transformers): 
+NarutoAddonHookLoader (JutsuAddon v1.0.jar)
+  net.decentstudio.jutsuaddon.hooklib.minecraft.PrimaryClassTransformer
+NarutoAddonHookLoader (SharinganAddon v1.0.jar)
+  net.decentstudio.narutoaddon.hooklib.minecraft.PrimaryClassTransformer
+Forgelin-Continuous (Forgelin-Continuous-2.1.10.0.jar)
+  
+SuperMartijn642's Core Lib Plugin (_supermartijn642corelib-1.1.18-forge-mc1.12.jar)
+  
+ApotheosisCore (Apotheosis-1.12.2-1.12.5.jar)
+  shadows.ApotheosisTransformer
+LootrCore (lootr-1.12.2-0.6.2.jar)
+  
+EntityCullingEarlyLoader (entityculling-1.12.2-1.6.3.jar)
+  
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.12.jar)
+  
+CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  
+NarutoAddonHookLoader (RinneganAddon v1.3.jar)
+  net.decentstudio.rinneganaddon.hooklib.minecraft.PrimaryClassTransformer
+MixinBooter (!mixinbooter-10.5.jar)
+  
+ModularUI-Core (modularui-2.4.3.jar)
+  com.cleanroommc.modularui.core.ClassTransformer
+NarutoAddonHookLoader (SealsAddon v1.0.jar)
+  net.decentstudio.sealsaddon.hooklib.minecraft.PrimaryClassTransformer
+CarbonConfigHooks (CarbonConfig-1.12.2-1.2.4.jar)
+  carbonconfiglib.impl.internal.CarbonConfigHooks
+Fusion Plugin (fusion-1.2.4-forge-mc1.12.jar)
+  
+SoManyEnchantmentsPlugin (SoManyEnchantments-1.0.2-1.12.2.jar)
+  
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 5; [EntityPlayerMP['G4R3N'/174, l='world', x=-13322.11, y=88.85, z=13761.29], EntityPlayerMP['gamesforever750'/1144, l='world', x=-13325.84, y=91.52, z=13759.14]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

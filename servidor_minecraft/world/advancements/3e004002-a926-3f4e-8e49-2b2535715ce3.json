@@ -966,6 +966,7 @@
       "zombie_villager": "2025-02-19 02:44:54 +0000",
       "skeleton": "2025-02-19 23:08:37 +0000",
       "husk": "2025-02-20 03:37:16 +0000",
+      "blaze": "2025-02-20 19:53:15 +0000",
       "evoker": "2025-02-20 03:52:36 +0000",
       "zombie": "2025-02-19 22:02:38 +0000",
       "cave_spider": "2025-02-20 03:37:28 +0000",
@@ -1087,6 +1088,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-02-20 19:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-19 03:16:44 +0000"
@@ -1168,6 +1175,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-02-20 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-20 20:05:29 +0000"
     },
     "done": true
   },
@@ -1603,6 +1616,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2025-02-20 20:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-20 20:05:29 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_cyan2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:18:34 +0000"
@@ -1693,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-20 20:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-02-19 00:25:21 +0000"
@@ -1719,6 +1750,7 @@
       "beaches": "2025-02-19 23:04:11 +0000",
       "extreme_hills_with_trees": "2025-02-20 06:18:35 +0000",
       "desert_hills": "2025-02-19 03:17:13 +0000",
+      "mesa": "2025-02-20 19:23:08 +0000",
       "forest_hills": "2025-02-20 06:08:30 +0000",
       "savanna": "2025-02-19 00:19:27 +0000",
       "plains": "2025-02-19 03:25:46 +0000",
@@ -1728,7 +1760,8 @@
       "ocean": "2025-02-19 23:04:13 +0000",
       "extreme_hills": "2025-02-20 06:09:56 +0000",
       "river": "2025-02-19 03:04:58 +0000",
-      "desert": "2025-02-19 02:57:36 +0000"
+      "desert": "2025-02-19 02:57:36 +0000",
+      "stone_beach": "2025-02-20 19:16:13 +0000"
     },
     "done": false
   },
