@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "narutomod:yooton_acquired": {
+    "criteria": {
+      "yooton_acquired": "2025-02-20 16:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-02-19 00:22:09 +0000"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-20 15:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:40:21 +0000"
@@ -423,6 +435,7 @@
       "rotten_flesh": "2025-02-20 02:59:30 +0000",
       "raw_cod": "2025-02-20 01:58:15 +0000",
       "cooked_chicken": "2025-02-19 03:41:17 +0000",
+      "enchanted_golden_apple": "2025-02-20 16:20:25 +0000",
       "carrot": "2025-02-19 04:03:36 +0000"
     },
     "done": false
@@ -583,6 +596,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-02-20 16:05:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-19 21:55:27 +0000"
@@ -634,6 +653,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-19 03:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-20 15:47:13 +0000"
     },
     "done": true
   },
@@ -859,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-02-20 15:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-02-19 03:32:00 +0000"
@@ -1009,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-20 15:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "stray": "2025-02-20 01:22:50 +0000",
@@ -1018,6 +1055,7 @@
       "husk": "2025-02-20 01:04:49 +0000",
       "zombie": "2025-02-19 22:08:32 +0000",
       "cave_spider": "2025-02-20 01:02:53 +0000",
+      "witch": "2025-02-20 15:43:44 +0000",
       "spider": "2025-02-19 21:49:50 +0000"
     },
     "done": false
@@ -1160,6 +1198,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-02-20 16:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-20 03:31:59 +0000"
@@ -1175,6 +1219,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-02-20 15:56:09 +0000"
     },
     "done": true
   },
@@ -1514,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-20 15:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:40:21 +0000"
@@ -1794,6 +1850,7 @@
     "criteria": {
       "forest": "2025-02-20 02:43:01 +0000",
       "birch_forest": "2025-02-19 03:47:17 +0000",
+      "deep_ocean": "2025-02-20 16:04:10 +0000",
       "beaches": "2025-02-19 03:42:46 +0000",
       "extreme_hills_with_trees": "2025-02-20 03:45:52 +0000",
       "desert_hills": "2025-02-19 00:23:56 +0000",
@@ -1803,8 +1860,10 @@
       "birch_forest_hills": "2025-02-20 02:38:17 +0000",
       "ocean": "2025-02-19 03:42:47 +0000",
       "extreme_hills": "2025-02-20 02:40:22 +0000",
+      "roofed_forest": "2025-02-20 16:10:35 +0000",
       "river": "2025-02-19 00:22:53 +0000",
-      "desert": "2025-02-19 00:23:48 +0000"
+      "desert": "2025-02-19 00:23:48 +0000",
+      "stone_beach": "2025-02-20 16:04:45 +0000"
     },
     "done": false
   },
@@ -2183,6 +2242,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-02-19 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-02-20 15:56:09 +0000"
     },
     "done": true
   },
