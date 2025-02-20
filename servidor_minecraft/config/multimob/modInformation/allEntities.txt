@@ -341,10 +341,10 @@ narutomod:sweep
 narutomod:hidan
 narutomod:hidan_symbol
 narutomod:kakuzu
-narutomod:shisui
-narutomod:shisui_mob_appearance
 narutomod:itachi2
 narutomod:itachi2_mob_appearance
+narutomod:shisui
+narutomod:shisui_mob_appearance
 kabutoaddon:rogue_ninja
 kabutoaddon:s_rank_missing_ninja
 kabutoaddon:iwa_rogue

@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-20 17:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-02-20 00:12:31 +0000"
@@ -417,6 +423,7 @@
       "cooked_cod": "2025-02-19 03:16:50 +0000",
       "mutton": "2025-02-19 03:15:25 +0000",
       "golden_apple": "2025-02-20 05:46:28 +0000",
+      "bread": "2025-02-20 18:04:49 +0000",
       "rotten_flesh": "2025-02-19 02:59:17 +0000",
       "raw_cod": "2025-02-19 21:54:19 +0000"
     },
@@ -695,6 +702,12 @@
   "connectedglass:recipes/decorations/borderless_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-02-20 17:52:03 +0000"
     },
     "done": true
   },
@@ -1090,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 17:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-20 02:56:04 +0000"
@@ -1216,6 +1235,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2025-02-20 17:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-20 17:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2025-02-20 17:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-19 02:57:06 +0000"
@@ -1240,9 +1277,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2025-02-20 17:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-20 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2025-02-20 17:40:45 +0000"
     },
     "done": true
   },
@@ -1453,6 +1502,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-02-20 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-20 17:53:08 +0000"
     },
     "done": true
   },
@@ -1803,13 +1858,17 @@
       "forest_hills": "2025-02-20 02:50:09 +0000",
       "savanna": "2025-02-19 00:18:08 +0000",
       "plains": "2025-02-20 04:42:47 +0000",
+      "jungle_hills": "2025-02-20 18:48:08 +0000",
       "savanna_rock": "2025-02-19 02:56:43 +0000",
+      "taiga": "2025-02-20 18:46:11 +0000",
       "birch_forest_hills": "2025-02-20 02:47:54 +0000",
       "ocean": "2025-02-19 03:12:19 +0000",
       "extreme_hills": "2025-02-20 02:41:41 +0000",
       "roofed_forest": "2025-02-20 06:19:18 +0000",
       "river": "2025-02-19 03:10:54 +0000",
-      "desert": "2025-02-19 00:24:56 +0000"
+      "jungle": "2025-02-20 18:38:07 +0000",
+      "desert": "2025-02-19 00:24:56 +0000",
+      "stone_beach": "2025-02-20 18:22:10 +0000"
     },
     "done": false
   },
@@ -1927,6 +1986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2025-02-20 17:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-02-19 00:27:47 +0000"
@@ -1969,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-02-20 17:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-02-19 00:27:47 +0000"
@@ -2002,6 +2073,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-02-20 17:40:48 +0000"
     },
     "done": true
   },
@@ -2080,6 +2157,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-02-20 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 17:48:12 +0000"
     },
     "done": true
   },
