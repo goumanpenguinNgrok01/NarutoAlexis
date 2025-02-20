@@ -2011,8 +2011,8 @@ kabutoaddon:kabuto_armor_pt_1
 kabutoaddon:sai_jacket
 kabutoaddon:obi_belt
 kabutoaddon:whiterobe
-kabutoaddon:sumirehime
 kabutoaddon:katana
+kabutoaddon:sumirehime
 rerollthingy:mysteriousfruit
 rerollthingy:mysteriousplantbottom
 rerollthingy:mysteriousplanttop
@@ -2039,8 +2039,8 @@ narutomodaddononero:wlcs
 narutomodaddononero:nodati
 narutomodaddononero:default_katana_1
 narutomodaddononero:default_katana_2
-narutomodaddononero:belt_raikagebody
 narutomodaddononero:kusarigama_hanzo
+narutomodaddononero:belt_raikagebody
 narutomodaddononero:dragon_blade
 narutomodaddononero:scythe
 narutomodaddononero:easter_bandanahelmet

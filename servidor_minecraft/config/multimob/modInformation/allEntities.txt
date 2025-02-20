@@ -360,8 +360,8 @@ kabutoaddon:bakufuu_ranbu
 kabutoaddon:fireparticle
 kabutoaddon:edotensei_itachi
 kabutoaddon:itachi_mob_appearance
-kabutoaddon:entityninetailspunch
 kabutoaddon:yakushi_kabuto
+kabutoaddon:entityninetailspunch
 kabutoaddon:white_extreme_attack
 kabutoaddon:uchiha_obito
 kabutoaddon:uzumaki_naruto
