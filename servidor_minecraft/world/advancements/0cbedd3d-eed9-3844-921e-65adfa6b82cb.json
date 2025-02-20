@@ -580,6 +580,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-20 14:24:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
@@ -936,6 +942,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-02-20 14:24:13 +0000",
       "zombie_villager": "2025-02-19 22:09:46 +0000",
       "skeleton": "2025-02-19 21:59:24 +0000",
       "zombie": "2025-02-19 21:59:52 +0000",
