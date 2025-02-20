@@ -1219,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-02-20 13:41:35 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
