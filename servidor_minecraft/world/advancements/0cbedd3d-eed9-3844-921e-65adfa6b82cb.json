@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "editenchanting:recipes/recipes/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-20 22:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-19 21:42:33 +0000"
@@ -817,6 +823,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-20 22:41:04 +0000"
     },
     "done": true
   },
@@ -1160,6 +1172,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-19 02:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-02-20 22:23:24 +0000"
     },
     "done": true
   },
@@ -1562,6 +1580,12 @@
   "connectedglass:recipes/buildingblocks/borderless_glass_silver2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-20 22:41:04 +0000"
     },
     "done": true
   },
