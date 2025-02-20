@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-20 14:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-02-19 02:54:52 +0000"
@@ -1285,6 +1291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-02-20 14:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-19 02:54:52 +0000"
@@ -1567,6 +1579,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-20 14:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-19 21:17:11 +0000"
@@ -1635,6 +1653,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-02-20 14:05:13 +0000",
+      "frozen_river": "2025-02-20 14:05:14 +0000",
       "forest": "2025-02-20 05:41:30 +0000",
       "birch_forest": "2025-02-20 05:18:48 +0000",
       "swampland": "2025-02-20 05:49:02 +0000",
@@ -1646,6 +1666,8 @@
       "savanna": "2025-02-19 02:39:48 +0000",
       "plains": "2025-02-19 21:28:31 +0000",
       "savanna_rock": "2025-02-19 02:54:36 +0000",
+      "ice_mountains": "2025-02-20 14:07:43 +0000",
+      "taiga": "2025-02-20 14:02:36 +0000",
       "birch_forest_hills": "2025-02-20 05:26:37 +0000",
       "ocean": "2025-02-20 05:34:27 +0000",
       "extreme_hills": "2025-02-20 05:19:52 +0000",
