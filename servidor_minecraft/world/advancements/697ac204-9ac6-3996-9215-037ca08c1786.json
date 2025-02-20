@@ -794,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-20 06:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-02-19 00:27:47 +0000"
@@ -905,6 +911,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-20 06:12:24 +0000"
     },
     "done": true
   },
@@ -1564,6 +1576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-20 06:12:24 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:50 +0000"
@@ -1612,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-02-20 06:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:10:31 +0000"
@@ -1639,6 +1663,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2025-02-19 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-20 06:12:24 +0000"
     },
     "done": true
   },
@@ -1705,6 +1735,7 @@
       "birch_forest_hills": "2025-02-20 02:47:54 +0000",
       "ocean": "2025-02-19 03:12:19 +0000",
       "extreme_hills": "2025-02-20 02:41:41 +0000",
+      "roofed_forest": "2025-02-20 06:19:18 +0000",
       "river": "2025-02-19 03:10:54 +0000",
       "desert": "2025-02-19 00:24:56 +0000"
     },
@@ -1923,6 +1954,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-20 06:12:24 +0000"
     },
     "done": true
   },
