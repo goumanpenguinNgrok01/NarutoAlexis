@@ -341,10 +341,10 @@ narutomod:sweep
 narutomod:hidan
 narutomod:hidan_symbol
 narutomod:kakuzu
-narutomod:shisui
-narutomod:shisui_mob_appearance
 narutomod:itachi2
 narutomod:itachi2_mob_appearance
+narutomod:shisui
+narutomod:shisui_mob_appearance
 kabutoaddon:rogue_ninja
 kabutoaddon:s_rank_missing_ninja
 kabutoaddon:iwa_rogue
@@ -360,8 +360,8 @@ kabutoaddon:bakufuu_ranbu
 kabutoaddon:fireparticle
 kabutoaddon:edotensei_itachi
 kabutoaddon:itachi_mob_appearance
-kabutoaddon:entityninetailspunch
 kabutoaddon:yakushi_kabuto
+kabutoaddon:entityninetailspunch
 kabutoaddon:white_extreme_attack
 kabutoaddon:uchiha_obito
 kabutoaddon:uzumaki_naruto
