@@ -799,6 +799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-20 15:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-19 03:54:48 +0000"

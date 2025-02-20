@@ -2867,3 +2867,541 @@ com.google.gson.JsonSyntaxException: Unknown item 'harvestcraft:harvestpumpkinit
 [15:18:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [15:18:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [15:18:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was killed by Uzumaki Naruto using senjutsu
+[15:23:05] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[15:23:05] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 86 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[15:23:05] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[15:23:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:23:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gamesforever750[/127.93.100.123:50115] logged in with entity id 5424799 at (340.30000001192093, 62.0, 198.76249998807907)
+[15:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 joined the game
+[15:23:07] [Server thread/INFO] [Waila]: Player EntityPlayerMP['gamesforever750'/5424799, l='world', x=340.30, y=62.00, z=198.76] connected. Sending ping
+[15:23:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:23:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
+[15:24:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:24:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:25:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:24] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingEvent$LivingJumpEvent@42e667c5:
+java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) [vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) [aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) [lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) [lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:26:24] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[15:26:24] [Server thread/ERROR] [FML]: 0: NORMAL
+[15:26:24] [Server thread/ERROR] [FML]: 1: ASM: class com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment onJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:24] [Server thread/ERROR] [FML]: 2: ASM: INSTANCE onLivingJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:24] [Server thread/ERROR] [FML]: 3: ASM: com.shultrea.rin.enchantments.armor.EnchantmentLightWeight@799bcc6 onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:24] [Server thread/ERROR] [FML]: 4: ASM: com.shultrea.rin.enchantments.curses.EnchantmentHeavyWeight@9a9d48c onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:24] [Server thread/ERROR] [FML]: 5: ASM: net.narutomod.procedure.ProcedureOnLivingJump@3baa52c2 lunge(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:24] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) ~[lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:43] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingEvent$LivingJumpEvent@4e6612f2:
+java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) [vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) [aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) [lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) [lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:26:43] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[15:26:43] [Server thread/ERROR] [FML]: 0: NORMAL
+[15:26:43] [Server thread/ERROR] [FML]: 1: ASM: class com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment onJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:43] [Server thread/ERROR] [FML]: 2: ASM: INSTANCE onLivingJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:43] [Server thread/ERROR] [FML]: 3: ASM: com.shultrea.rin.enchantments.armor.EnchantmentLightWeight@799bcc6 onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:43] [Server thread/ERROR] [FML]: 4: ASM: com.shultrea.rin.enchantments.curses.EnchantmentHeavyWeight@9a9d48c onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:43] [Server thread/ERROR] [FML]: 5: ASM: net.narutomod.procedure.ProcedureOnLivingJump@3baa52c2 lunge(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:43] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) ~[lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[15:26:44] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingEvent$LivingJumpEvent@150ff1dc:
+java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) [vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) [aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) [lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$Position.func_148833_a(SourceFile:57) [lk$a.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:26:44] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[15:26:44] [Server thread/ERROR] [FML]: 0: NORMAL
+[15:26:44] [Server thread/ERROR] [FML]: 1: ASM: class com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment onJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:44] [Server thread/ERROR] [FML]: 2: ASM: INSTANCE onLivingJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:44] [Server thread/ERROR] [FML]: 3: ASM: com.shultrea.rin.enchantments.armor.EnchantmentLightWeight@799bcc6 onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:44] [Server thread/ERROR] [FML]: 4: ASM: com.shultrea.rin.enchantments.curses.EnchantmentHeavyWeight@9a9d48c onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:44] [Server thread/ERROR] [FML]: 5: ASM: net.narutomod.procedure.ProcedureOnLivingJump@3baa52c2 lunge(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:44] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$Position.func_148833_a(SourceFile:57) ~[lk$a.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[15:26:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:45] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingEvent$LivingJumpEvent@211a0426:
+java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) [vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) [aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) [lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) [lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:26:45] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[15:26:45] [Server thread/ERROR] [FML]: 0: NORMAL
+[15:26:45] [Server thread/ERROR] [FML]: 1: ASM: class com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment onJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:45] [Server thread/ERROR] [FML]: 2: ASM: INSTANCE onLivingJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:45] [Server thread/ERROR] [FML]: 3: ASM: com.shultrea.rin.enchantments.armor.EnchantmentLightWeight@799bcc6 onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:45] [Server thread/ERROR] [FML]: 4: ASM: com.shultrea.rin.enchantments.curses.EnchantmentHeavyWeight@9a9d48c onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:45] [Server thread/ERROR] [FML]: 5: ASM: net.narutomod.procedure.ProcedureOnLivingJump@3baa52c2 lunge(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:45] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$PositionRotation.func_148833_a(SourceFile:18) ~[lk$b.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[15:26:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:47] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingEvent$LivingJumpEvent@14069a22:
+java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) [vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) [aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) [lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$Position.func_148833_a(SourceFile:57) [lk$a.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:26:47] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[15:26:47] [Server thread/ERROR] [FML]: 0: NORMAL
+[15:26:47] [Server thread/ERROR] [FML]: 1: ASM: class com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment onJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:47] [Server thread/ERROR] [FML]: 2: ASM: INSTANCE onLivingJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:47] [Server thread/ERROR] [FML]: 3: ASM: com.shultrea.rin.enchantments.armor.EnchantmentLightWeight@799bcc6 onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:47] [Server thread/ERROR] [FML]: 4: ASM: com.shultrea.rin.enchantments.curses.EnchantmentHeavyWeight@9a9d48c onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:47] [Server thread/ERROR] [FML]: 5: ASM: net.narutomod.procedure.ProcedureOnLivingJump@3baa52c2 lunge(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:47] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$Position.func_148833_a(SourceFile:57) ~[lk$a.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[15:26:49] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingEvent$LivingJumpEvent@56d60db:
+java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) [vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) [aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) [lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$Position.func_148833_a(SourceFile:57) [lk$a.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[15:26:49] [Server thread/ERROR] [FML]: Index: 1 Listeners:
+[15:26:49] [Server thread/ERROR] [FML]: 0: NORMAL
+[15:26:49] [Server thread/ERROR] [FML]: 1: ASM: class com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment onJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:49] [Server thread/ERROR] [FML]: 2: ASM: INSTANCE onLivingJump(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:49] [Server thread/ERROR] [FML]: 3: ASM: com.shultrea.rin.enchantments.armor.EnchantmentLightWeight@799bcc6 onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:49] [Server thread/ERROR] [FML]: 4: ASM: com.shultrea.rin.enchantments.curses.EnchantmentHeavyWeight@9a9d48c onLivingJumpEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:49] [Server thread/ERROR] [FML]: 5: ASM: net.narutomod.procedure.ProcedureOnLivingJump@3baa52c2 lunge(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingJumpEvent;)V
+[15:26:49] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_70016_h(DDD)V
+	at com.wonderfulenchantments.enchantments.PhoenixDiveEnchantment.onJump(PhoenixDiveEnchantment.java:137) ~[PhoenixDiveEnchantment.class:1.0]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_213_PhoenixDiveEnchantment_onJump_LivingJumpEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingJump(ForgeHooks.java:694) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.EntityLivingBase.func_70664_aZ(EntityLivingBase.java:1819) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70664_aZ(EntityPlayer.java:1795) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:542) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer.func_148833_a(SourceFile:126) ~[lk.class:?]
+	at net.minecraft.network.play.client.CPacketPlayer$Position.func_148833_a(SourceFile:57) ~[lk$a.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_442]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_442]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[15:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved wrongly!
+[15:28:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:28:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
