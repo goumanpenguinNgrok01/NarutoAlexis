@@ -2039,8 +2039,8 @@ narutomodaddononero:wlcs
 narutomodaddononero:nodati
 narutomodaddononero:default_katana_1
 narutomodaddononero:default_katana_2
-narutomodaddononero:kusarigama_hanzo
 narutomodaddononero:belt_raikagebody
+narutomodaddononero:kusarigama_hanzo
 narutomodaddononero:dragon_blade
 narutomodaddononero:scythe
 narutomodaddononero:easter_bandanahelmet
@@ -2063,10 +2063,10 @@ narutomodaddononero:armor_onokilegs
 narutomodaddononero:armor_shisuihelmet
 narutomodaddononero:armor_shisuibody
 narutomodaddononero:armor_shisuilegs
+narutomodaddononero:utakata_cloakbody
 narutomodaddononero:armor_chojurohelmet
 narutomodaddononero:armor_chojurobody
 narutomodaddononero:armor_chojurolegs
-narutomodaddononero:utakata_cloakbody
 narutomodaddononero:armor_zabuzahelmet
 narutomodaddononero:armor_zabuzabody
 narutomodaddononero:armor_zabuzalegs

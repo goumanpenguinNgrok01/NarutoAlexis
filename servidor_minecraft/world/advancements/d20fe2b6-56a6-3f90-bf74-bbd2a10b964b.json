@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-02-20 21:07:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-19 00:22:33 +0000"
@@ -668,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 21:07:20 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -851,6 +863,12 @@
   "connectedglass:recipes/decorations/scratched_glass_silver_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-02-20 20:59:58 +0000"
     },
     "done": true
   },
@@ -1868,7 +1886,11 @@
       "desert_hills": "2025-02-19 00:23:56 +0000",
       "savanna": "2025-02-19 00:19:29 +0000",
       "plains": "2025-02-19 21:11:59 +0000",
+      "jungle_edge": "2025-02-20 21:12:32 +0000",
       "savanna_rock": "2025-02-19 00:19:48 +0000",
+      "redwood_taiga": "2025-02-20 20:50:10 +0000",
+      "taiga": "2025-02-20 20:50:30 +0000",
+      "redwood_taiga_hills": "2025-02-20 20:52:53 +0000",
       "birch_forest_hills": "2025-02-20 02:38:17 +0000",
       "ocean": "2025-02-19 03:42:47 +0000",
       "extreme_hills": "2025-02-20 02:40:22 +0000",
